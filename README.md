@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronzeDisc&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 - 🌱 I’m currently learning русский язык, TypeScript, Redis, CMS and MongoDB.
-- 🔭 I’m currently working on Blockchain Softwares.
+- 🔭 I’m currently working on Blockchain Software.
 
 
 <!-- 
