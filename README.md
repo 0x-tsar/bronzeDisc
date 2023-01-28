@@ -4,7 +4,7 @@
 </div> -->
 - 🌱 I’m currently learning русский язык, TypeScript, Redis, GraphQL and MongoDB.
 - 🔭 I’m currently working on Blockchain Software.
-
+.
 <!-- 
 
 - 🔭 I’m currently working on ...
